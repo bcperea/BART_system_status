@@ -1,21 +1,120 @@
-MIT License
+Creative Commons Attribution-ShareAlike 4.0 Generic License
 
 Copyright (c) 2017 Brian Perea
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Software and data are provided under the terms of the Creative Commons
+Attribution-ShareAlike 4.0 Generic License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Any use of the work other than as authorized under this license or copyright
+law is prohibited.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the
+OpenWeatherMap.org, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+ShareAlike — If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+You do not have to comply with the license for elements of the material in the
+public domain or where your use is permitted by an applicable exception or
+limitation.
+
+No warranties are given. The license may not give you all of the permissions
+necessary for your intended use. For example, other rights such as publicity,
+privacy, or moral rights may limit how you use the material.
+
+-------------------------------------------------------------------------------
+
+BART API Data is subject to the following license:
+
+The San Francisco Bay Area Rapid Transit District (BART) hereby grants you
+(Licensee) non-exclusive, limited and revocable rights to use, reproduce, and
+redistribute BART Data (Data) subject to the following Terms:
+
+BART trademarks and copyrighted materials, including any confusingly similar
+variants, may not be used in association with Data.
+
+Data is provided on an "as is" and "as available" basis. BART makes no
+representations or warranties of any kind, express or implied. BART disclaims
+all warranties, express or implied, including but not limited to implied
+warranties of merchantability and fitness for a particular purpose. BART and
+its employees, officers, directors and agents will not be liable for damages of
+any kind arising from the use of Data including but not limited to direct,
+indirect, incidental, punitive and consequential damages.
+
+BART reserves the right to alter and/or no longer provide Data at any time
+without prior notice.
+
+BART maintains title, ownership, rights and interest in and to Data.
+
+By using BART Data, you agree to be bound by all of the Terms and Conditions
+set forth in this agreement.
+
+Applicable Law
+The laws of the State of California shall govern all rights and obligations
+under this Agreement, without giving effect to any principles of conflicts of
+laws.
+
+Entire Agreement
+This Agreement constitutes the complete and exclusive agreement between BART
+and Licensee with respect to the subject matter hereof and supersedes all prior
+oral or written understandings, communications, or agreements not specifically
+incorporated herein. BART reserves the right to modify or revoke this agreement
+at any time.
+
+-------------------------------------------------------------------------------
+
+Open Weather Data Free Weather API License:
+
+Free weather API is provided under the terms of the Creative Commons
+Attribution-ShareAlike 4.0 Generic License.
+
+Any use of the work other than as authorized under this license or copyright
+law is prohibited.
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the
+OpenWeatherMap.org, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+ShareAlike — If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+You do not have to comply with the license for elements of the material in the
+public domain or where your use is permitted by an applicable exception or
+limitation.
+
+No warranties are given. The license may not give you all of the permissions
+necessary for your intended use. For example, other rights such as publicity,
+privacy, or moral rights may limit how you use the material.
